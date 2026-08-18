@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL / local files
+*.sql.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
