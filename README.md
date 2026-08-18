@@ -112,14 +112,12 @@ The final dataset is substantially cleaner and better suited for further SQL ana
 
 ```text
 sql-data-cleaning-project/
-├── data/
-│   └── layoffs_raw.csv
-├── docs/
-│   └── linkedin_project.md
+└── README.md
 ├── sql/
 │   └── data_cleaning.sql
+├── data/
+│   └── layoffs_raw.csv
 ├── .gitignore
-└── README.md
 ```
 
 ## How to Run
