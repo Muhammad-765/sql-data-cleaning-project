@@ -12,8 +12,7 @@ Key work included identifying and removing duplicate records, standardizing inco
 
 The project demonstrates practical experience with MySQL, CTEs, window functions, ROW_NUMBER(), PARTITION BY, JOINs, NULL handling, data standardization, and data-quality validation.
 
-GitHub repository: [Add your GitHub repository link here]
-
+GitHub repository: [https://github.com/Muhammad-765/sql-data-cleaning-project/tree/main]
 ## Suggested Skills
 
 - SQL
@@ -46,6 +45,6 @@ The final cleaned dataset went from **2,361 raw records to 1,995 analysis-ready 
 
 This project helped me strengthen my practical SQL skills and understand how important data quality is before analysis begins.
 
-🔗 GitHub: [Add your repository link here]
+🔗 GitHub: [https://github.com/Muhammad-765/sql-data-cleaning-project/tree/main]
 
 #SQL #MySQL #DataAnalytics #DataCleaning #DataAnalysis #BusinessDataAnalytics #DataScience #PortfolioProject
